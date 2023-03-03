@@ -4,7 +4,7 @@ Here is my code for the tech screen. I had a lot of fun implementing it and hope
 
 ### Part One
 
-The project description makes it clear that this challenge was designed to simulate a real0world situation, so I implemented my solution accordingly.
+The project description makes it clear that this challenge was designed to simulate a real world situation, so I implemented my solution accordingly.
 
 Instead of independently calculating the distances, I used a Pandas dataframe to represent all of the data given to me alongside an adjancy matrix of every technician's proximity to one another. 
 
