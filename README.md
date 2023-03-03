@@ -13,7 +13,7 @@ Additionally, because querying/manipulating time-series data in a standard dataf
 I also ensured that the dataframe and its corresponding functions work for any number of technicians per datetime, making the code reusable as more data is ingested.
 
 ### Part Two
-I also did some exploratory data analysis to determine which approach to take. First, I graphed the movement of each technician over time to see if there were any easily discernable patterns. 
+I did some exploratory data analysis to determine which approach to take. First, I graphed the movement of each technician over time to see if there were any easily discernable patterns. 
 
 Since knowing in which direction a technician will move is crucial in predicting their next position, I also created a scatterplot displaying the relationship between a technician's bearing and their angle of movement. There wasn't a clear linear relationship, but I saw a few intriguing clusters I'd like to explore with more data. 
 
