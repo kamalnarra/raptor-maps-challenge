@@ -1,6 +1,6 @@
 # raptor-maps-challenge
 
-Here is my code for the tech screen. I had a lot of fun implementing it and hope you enjoy my solution :)
+Here is my code for the tech screen. I had a lot of fun implementing it and hope you enjoy my solution :blush:
 
 ### Part One
 
